@@ -1,1 +1,4 @@
+clave php redmine
+MySQL 5.5	Database: grupo6pris2 User: adminnS4nviS Password: VsbUp1lekdV2
+
 polinomio
