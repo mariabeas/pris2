@@ -25,4 +25,12 @@ public class Monomio {
 	public void setExponente(int exponente) {
 		this.exponente = exponente;
 	}
+	
+	public int compareTo(Monomio o){
+		if (exponente > o.exponente)
+			return 1;
+		if (exponente < o.exponente)
+			return -1;
+		return 0;
+	}
 }
