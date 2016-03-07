@@ -1,6 +1,6 @@
 package org.pris2.polinomio;
 
-public class Monomio {
+public class Monomio implements Comparable<Monomio> {
 
 	private int numero;
 	private int exponente;
@@ -25,12 +25,21 @@ public class Monomio {
 	public void setExponente(int exponente) {
 		this.exponente = exponente;
 	}
-	
-	public int compareTo(Monomio o){
+
+	@Override
+	public int compareTo(Monomio o) {
 		if (exponente > o.exponente)
 			return 1;
 		if (exponente < o.exponente)
 			return -1;
 		return 0;
 	}
+
+	@Override
+	public String toString() {
+		return numero + "x^" + exponente;
+	}
+	
+	
+	
 }
