@@ -26,6 +26,7 @@ public class polinomio {
 	
 	public void ordenarPolinomio(){
 		Collections.sort(polinomio);
+		Collections.reverse(polinomio);
 	}
 
 	@Override
