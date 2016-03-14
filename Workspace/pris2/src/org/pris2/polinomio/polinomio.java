@@ -45,6 +45,35 @@ public class polinomio {
 		}
 		return cadena;
 	}
+
+	
+	public ArrayList<Monomio> agruparMonomios(){
+		ArrayList<Monomio> agrupado = new ArrayList<Monomio>();
+		Iterator<Monomio> iterator = polinomio.iterator();
+		Monomio aux = null;
+		int suma = 0;
+		int size = polinomio.size();
+		System.out.println(size);
+		
+		for(int i = 0; i < size ; i++){
+			System.out.println(polinomio.get(i));
+			for(int j = i+1 ; j < size; i++){
+				System.out.println(polinomio.get(j));
+					if(polinomio.get(i).getExponente() == polinomio.get(j).getExponente() ){
+						suma =  polinomio.get(i).getNumero() + polinomio.get(j).getNumero();
+						System.out.println(suma);
+						break;
+					}
+					else{
+						agrupado.add(new Monomio(suma, polinomio.get(i).getExponente()));
+						System.out.println(agrupado.toString());
+						suma = 0;
+					}
+			}
+					
+		}		
+		return agrupado;
+	}
 	
 	
 
