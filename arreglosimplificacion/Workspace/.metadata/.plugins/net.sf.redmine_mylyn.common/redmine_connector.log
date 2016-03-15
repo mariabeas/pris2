@@ -1,0 +1,224 @@
+2016-03-08 11:45:35,976 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/version
+2016-03-08 11:46:21,241 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/version
+2016-03-08 11:46:21,906 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:27,619 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-08 11:46:28,259 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:28,271 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/customfields
+2016-03-08 11:46:28,522 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:28,527 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/projects
+2016-03-08 11:46:28,992 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:28,999 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/users
+2016-03-08 11:46:29,212 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:29,214 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuecategories
+2016-03-08 11:46:29,491 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:29,496 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/queries
+2016-03-08 11:46:29,716 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:29,723 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/versions
+2016-03-08 11:46:29,931 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:29,939 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/trackers
+2016-03-08 11:46:30,152 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:30,163 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuepriorities
+2016-03-08 11:46:30,441 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:46:30,445 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/settings
+2016-03-08 11:46:30,645 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:04,466 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-08 11:49:05,013 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:05,023 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/customfields
+2016-03-08 11:49:05,212 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:05,217 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/projects
+2016-03-08 11:49:05,443 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:05,452 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/users
+2016-03-08 11:49:05,648 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:05,655 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuecategories
+2016-03-08 11:49:05,851 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:05,856 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/queries
+2016-03-08 11:49:06,048 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:06,051 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/versions
+2016-03-08 11:49:06,241 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:06,245 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/trackers
+2016-03-08 11:49:06,478 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:06,483 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuepriorities
+2016-03-08 11:49:06,686 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:06,696 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/settings
+2016-03-08 11:49:06,885 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:56,568 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-08 11:49:56,981 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:56,992 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/customfields
+2016-03-08 11:49:57,178 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:57,185 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/projects
+2016-03-08 11:49:57,418 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:57,427 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/users
+2016-03-08 11:49:57,614 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:57,625 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuecategories
+2016-03-08 11:49:57,807 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:57,813 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/queries
+2016-03-08 11:49:57,996 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:58,003 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/versions
+2016-03-08 11:49:58,185 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:58,191 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/trackers
+2016-03-08 11:49:58,377 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:58,381 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuepriorities
+2016-03-08 11:49:58,613 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:49:58,619 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/settings
+2016-03-08 11:49:58,804 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:50:40,355 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues project_id=1&fields[]=status_id&operators[status_id]=o&values[status_id][]=&fields[]=assigned_to_id&operators[assigned_to_id]==&values[assigned_to_id][]=3
+2016-03-08 11:50:41,104 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:53:33,912 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues project_id=1&fields[]=status_id&operators[status_id]=o&values[status_id][]=&fields[]=assigned_to_id&operators[assigned_to_id]==&values[assigned_to_id][]=3
+2016-03-08 11:53:34,454 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:53:34,518 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/list issues=2
+2016-03-08 11:53:34,843 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:53:42,435 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/list issues=2
+2016-03-08 11:53:42,666 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 11:54:38,575 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/list issues=2
+2016-03-08 11:54:39,113 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:17:59,736 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-08 12:17:59,833 ERROR n.s.r.i.a.c.AbstractClient Execution of method failed - pris2grupo6-pis115eq3.rhcloud.com
+java.net.UnknownHostException: pris2grupo6-pis115eq3.rhcloud.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_73]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.connect(MonitoredRequest.java:97) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.PollingProtocolSocketFactory.createSocket(PollingProtocolSocketFactory.java:54) ~[na:na]
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707) ~[na:na]
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171) ~[na:na]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:334) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:1) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.call(MonitoredRequest.java:51) ~[na:na]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_73]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_73]
+2016-03-08 12:17:59,833 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues project_id=1&fields[]=status_id&operators[status_id]=o&values[status_id][]=&fields[]=assigned_to_id&operators[assigned_to_id]==&values[assigned_to_id][]=3
+2016-03-08 12:17:59,861 ERROR n.s.r.i.a.c.AbstractClient Execution of method failed - pris2grupo6-pis115eq3.rhcloud.com
+java.net.UnknownHostException: pris2grupo6-pis115eq3.rhcloud.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_73]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.connect(MonitoredRequest.java:97) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.PollingProtocolSocketFactory.createSocket(PollingProtocolSocketFactory.java:54) ~[na:na]
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707) ~[na:na]
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171) ~[na:na]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:334) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:1) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.call(MonitoredRequest.java:51) ~[na:na]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_73]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_73]
+2016-03-08 12:17:59,903 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/list issues=2
+2016-03-08 12:17:59,930 ERROR n.s.r.i.a.c.AbstractClient Execution of method failed - pris2grupo6-pis115eq3.rhcloud.com
+java.net.UnknownHostException: pris2grupo6-pis115eq3.rhcloud.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_73]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.connect(MonitoredRequest.java:97) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.PollingProtocolSocketFactory.createSocket(PollingProtocolSocketFactory.java:54) ~[na:na]
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707) ~[na:na]
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171) ~[na:na]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:334) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:1) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.call(MonitoredRequest.java:51) ~[na:na]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_73]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_73]
+2016-03-08 12:38:24,331 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-08 12:38:24,874 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:24,877 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/customfields
+2016-03-08 12:38:25,069 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:25,071 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/projects
+2016-03-08 12:38:25,307 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:25,314 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/users
+2016-03-08 12:38:25,512 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:25,524 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuecategories
+2016-03-08 12:38:25,721 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:25,727 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/queries
+2016-03-08 12:38:25,944 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:25,948 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/versions
+2016-03-08 12:38:26,144 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:26,147 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/trackers
+2016-03-08 12:38:26,415 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:26,426 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuepriorities
+2016-03-08 12:38:26,623 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:26,631 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/settings
+2016-03-08 12:38:26,825 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:26,833 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues project_id=1&fields[]=status_id&operators[status_id]=o&values[status_id][]=&fields[]=assigned_to_id&operators[assigned_to_id]==&values[assigned_to_id][]=3
+2016-03-08 12:38:27,056 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 12:38:27,071 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/list issues=2
+2016-03-08 12:38:27,391 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 13:00:11,043 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2&unixtime=1457434404
+2016-03-08 13:00:11,622 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 13:00:11,629 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues project_id=1&fields[]=status_id&operators[status_id]=o&values[status_id][]=&fields[]=assigned_to_id&operators[assigned_to_id]==&values[assigned_to_id][]=3
+2016-03-08 13:00:11,928 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 13:00:11,941 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/list issues=4
+2016-03-08 13:00:12,222 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS carlos
+2016-03-08 16:07:19,012 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-08 16:07:19,551 ERROR n.s.r.i.a.c.AbstractClient Execution of method failed - pris2grupo6-pis115eq3.rhcloud.com
+java.net.UnknownHostException: pris2grupo6-pis115eq3.rhcloud.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_73]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.connect(MonitoredRequest.java:97) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.PollingProtocolSocketFactory.createSocket(PollingProtocolSocketFactory.java:54) ~[na:na]
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707) ~[na:na]
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171) ~[na:na]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:334) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:1) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.call(MonitoredRequest.java:51) ~[na:na]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_73]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_73]
+2016-03-08 18:53:04,872 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-08 18:53:17,311 ERROR n.s.r.i.a.c.AbstractClient Execution of method failed - pris2grupo6-pis115eq3.rhcloud.com
+java.net.UnknownHostException: pris2grupo6-pis115eq3.rhcloud.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_73]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_73]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.connect(MonitoredRequest.java:97) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.PollingProtocolSocketFactory.createSocket(PollingProtocolSocketFactory.java:54) ~[na:na]
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707) ~[na:na]
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387) ~[na:na]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171) ~[na:na]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:334) ~[na:na]
+	at org.eclipse.mylyn.commons.net.WebUtil$2.execute(WebUtil.java:1) ~[na:na]
+	at org.eclipse.mylyn.internal.commons.net.MonitoredRequest.call(MonitoredRequest.java:51) ~[na:na]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_73]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_73]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_73]
+2016-03-15 10:11:01,875 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 10:11:02,878 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-15 10:31:03,145 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 10:31:03,702 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-15 10:51:03,933 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 10:51:04,453 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-15 11:11:04,676 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 11:11:14,615 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-15 11:31:14,838 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 11:31:16,650 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-15 11:51:16,853 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 11:51:17,378 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-15 12:11:17,624 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 12:11:20,600 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175
+2016-03-15 12:45:55,493 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issuestatus
+2016-03-15 12:45:56,278 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /mylyn/issues/updatedsince issues=2,4&unixtime=1457438175

@@ -1,0 +1,15 @@
+package org.pris2.polinomio;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class polinomio {
+		int exponente;
+		int numero;
+		
+		public ArrayList obtenerMonomio(){
+			return null;}
+
+	
+
+}

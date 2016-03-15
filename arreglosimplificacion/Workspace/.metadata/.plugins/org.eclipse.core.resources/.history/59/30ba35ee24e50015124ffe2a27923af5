@@ -1,0 +1,25 @@
+package org.pris2.polinomio;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class usoPolinomio {
+	public static int numero=0;
+	public static int exponente=0;
+	Scanner in=new Scanner(System.in);
+	public static  void main(String[] args) {
+		System.out.println("sin static");
+		ArrayList<usoPolinomio> lista;
+		obtenerMonomio(numero,exponente);
+
+	}
+
+	private static ArrayList obtenerMonomio(int numero, int exponente) {
+		
+		return null;
+		// TODO Auto-generated method stub
+		
+	}
+
+}
