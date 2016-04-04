@@ -2,11 +2,11 @@ URL REDMINE:   http://pris2grupo6-pis115eq3.rhcloud.com
 
 	USUARIOS Y PASSWORDS
 adminsitrador redmine: admin
-administrador password: Rnv7Z6arY8e4
+administrador password: 
 carlos		********
-maria		Pancho2003
-josemanuel	pacoguil
-joseandres	joseandrespris2
+maria		
+josemanuel	
+joseandres	
 
 
 
