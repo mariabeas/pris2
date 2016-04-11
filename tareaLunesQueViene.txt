@@ -1,0 +1,6 @@
+reproducir ejemplo de factoriacion
+de capitulo1 del libro de martin noseq
+(peliculas alquileres etc...)
+
+utlizar commits para cada ejemplo 
+d factorizacion partiendo del primer cosigo
